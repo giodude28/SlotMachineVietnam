@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">THỬ VẬN MAY - Slot machines 777</string>
+
+    <array name="menuOptions">
+        <item>Trang Chủ</item>
+        <item>Giải thưởng</item>
+        <item>Thuật ngữ</item>
+        <item>Các loại máy</item>
+        <item>Lời khuyên</item>
+    </array>
+</resources>
+
+

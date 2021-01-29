@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538519507162",
+    "project_id": "th-vn-may---slot-machines-777",
+    "storage_bucket": "th-vn-may---slot-machines-777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538519507162:android:18c40e8a04c8e0c899d5e3",
+        "android_client_info": {
+          "package_name": "io.gio.MAYSlotmachines777"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538519507162-cmni363huobggt025e9ft2vtf3p05cpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6fCe08So25ihM1m5ILrDd6syr2jlYUTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538519507162-cmni363huobggt025e9ft2vtf3p05cpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
